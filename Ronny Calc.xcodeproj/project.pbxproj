@@ -250,7 +250,7 @@
 				DEVELOPMENT_TEAM = M64275Y8VM;
 				INFOPLIST_FILE = "Ronny Calc/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "info.codestart.Ronny-Calc";
+				PRODUCT_BUNDLE_IDENTIFIER = "info.codestart.MACOS-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -264,7 +264,7 @@
 				DEVELOPMENT_TEAM = M64275Y8VM;
 				INFOPLIST_FILE = "Ronny Calc/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "info.codestart.Ronny-Calc";
+				PRODUCT_BUNDLE_IDENTIFIER = "info.codestart.MACOS-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
